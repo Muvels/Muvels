@@ -7,7 +7,7 @@ Have fun on my Github Page :D
 ## My Current Projects
 +   Tensorflow Image Detection on Boxes of PDFs in order to perform Key Value      Analysis on that Boxes.
 +   User Interface for Tensorflow Model Training, so you can train your Models from everywhere
-+   Development of Multiplayer Server for a Game
++   Development of Multiplayer Server and Network Code for a Game
 
 ## Statistics
 <div id="layout" align="center">
