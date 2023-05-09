@@ -9,6 +9,20 @@ Have fun on my Github Page :D
 +   Tensorflow Image Detection on Boxes of PDFs in order to perform Key Value      Analysis on that Boxes.
 +   User Interface for Tensorflow Model Training, so you can train your Models from everywhere
 +   Development of Multiplayer Server for a Game
+
+## Tech Stack
+<div align="center">
+  
+![image](https://github.com/Muvels/Muvels/assets/58641436/dfcb3d29-61ba-4afc-8d6f-cf77d46a777e)
+ 
+</div>
+
+## Statistics
+<div id="layout" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muvels&show_icons=true&locale=en&layout=compact"/>
+  <img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=Muvels&theme=light&hide_border=false&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **Muvels/Muvels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
