@@ -18,7 +18,7 @@ Have fun on my Github Page :D
 ## Tech Stack
 <div align="center">
   
-![image](https://github.com/Muvels/Muvels/assets/58641436/c5715461-ed89-4046-974b-aea339ba4b10)
+![image](https://github.com/Muvels/Muvels/assets/58641436/776eb38b-c549-4936-ab80-0a047fd2082c)
 
  
 </div>
