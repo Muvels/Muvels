@@ -4,11 +4,6 @@ I Like Web Development, especially the creation of application programming inter
 Have fun on my Github Page :D
 <br><br>
 
-## My Current Projects
-+   Tensorflow Image Detection on Boxes of PDFs in order to perform Key Value      Analysis on that Boxes.
-+   User Interface for Tensorflow Model Training, so you can train your Models from everywhere
-+   Development of Multiplayer Server and Network Code for a Game
-
 ## Statistics
 <div id="layout" align="center">
   <img src="https://express-your-profile.vercel.app/api/top-langs?username=Muvels&show_icons=true&locale=en&layout=compact"/>
