@@ -4,12 +4,6 @@ I Like Web Development, especially the creation of application programming inter
 Have fun on my Github Page :D
 <br><br>
 
-## Statistics
-<div id="layout" align="center">
-  <img src="https://express-your-profile.vercel.app/api/top-langs?username=Muvels&show_icons=true&locale=en&layout=compact"/>
-  <img style="height:165px" src="https://express-your-profile.vercel.app/api?username=Muvels&theme=light&hide_border=false&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Tech Stack
 <div align="center">
   
